@@ -1,0 +1,25 @@
+- How your code is structured and organized?
+
+- How your clean is your code?
+
+- How good is your documentation?
+
+- How good is you logical thinking?
+
+- How efficient is your solution to solve those problems?
+
+- Do you hardcode everything or use packages to be more productive?
+
+- How is your domain of language?
+
+- How was you attention on delivering all requirements?
+
+- What level of problems could you solve?
+
+- How effective is your unit tests? (If you wrote tests. If don't, we'll assume that you don't know how to write tests)
+
+- What level you can reach in this test?
+
+- Can your solution solve alternative cases similar to those presented?
+
+ 

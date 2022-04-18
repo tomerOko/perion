@@ -1,0 +1,40 @@
+{
+    "result" : [
+        {
+            "description" : "ATIVO", // string
+            "classifier" : "100000", // string
+            "openingBalance" : 1000, // number
+            "debit" : 300, // number
+            "credit" : 500, // number
+            "finalBalance" : 1200, // number
+            "parent" : null // null or string of the parent classifier
+        }, 
+        {
+            "description" : "ATIVO CIRCULANTE", // string
+            "classifier" : "110000", // string
+            "openingBalance" : 500, // number
+            "debit" : 100, // number
+            "credit" : 200, // number
+            "finalBalance" : 600, // number
+            "parent" : "100000" // null || string
+        }, 
+        {
+            "description" : "DISPONIVEL", // string
+            "classifier" : "111000", // string
+            "openingBalance" : 200, // number
+            "debit" : 100, // number
+            "credit" : 50, // number
+            "finalBalance" : 150, // number
+            "parent" : "110000" // null || string
+        }, 
+        {
+            "description" : "PASSIVO", // string
+            "classifier" : "200000", // string
+            "openingBalance" : 800, // number
+            "debit" : 250, // number
+            "credit" : 450, // number
+            "finalBalance" : 1000, // number
+            "parent" : null // null || string
+        }
+    ]
+}

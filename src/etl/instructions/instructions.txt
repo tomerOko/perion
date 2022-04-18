@@ -1,0 +1,41 @@
+Level 1
+------------
+Simply receive the below input and return a collection like the example above.
+
+
+
+level 2
+------------
+Remember: all previous inputs must pass to your new code.
+
+Refactoring and evolve you previous code to do this level - remember to save your previous code to share with us too.
+
+Pay attention on this differences from the previous level:
+
+Classifier now have dots, but we don't want them
+There is different spcacing between data
+Monetary data is represented as we use in Brazil, but we need it to be a float number type, you'll need to convert them
+Any letter at monetary data must be removed
+
+
+
+level 3
+------------
+Remember: all previous inputs must pass to your new code.
+
+Refactoring and evolve you previous code to do this level - remember to save your previous code to share with us too.
+
+Pay attention on this differences from the previous level:
+
+Now we have a document header, you will need to remove or ignore them
+
+
+
+
+Bonus Level
+------------
+We value overdelivering culture.
+
+How about create a way to save all results in a MongoDB Collection?
+
+If you accept the challange, do it on your way.
